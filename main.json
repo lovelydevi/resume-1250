@@ -1,0 +1,58 @@
+{
+	"profile":{
+		"img":"frnds.jpg",
+		"name":"Devi",
+		"roll":"16NN1A1250",
+		"Institute":"Vignan",
+		"place":"guntur"
+	},
+	"career":{
+		"info":"Career objective or resume objective acts as the pitch of your resume. It mentions the goal and objective of your career. Even though it is not a strict requirement to include a resume objective in your resume, a well-written objective can help you catch the attention of the recruiter."
+},
+"education":[
+
+	{
+		"degree":"b.tech",
+		"institute":"vignan",
+		"yearofpassing":"2020"
+	},
+	{
+		"degree":"intermediate",
+		"institute":"narayana",
+		"yearofpassing":"2016"
+	},
+	{
+		"degree":"ssc",
+		"institute":"narayana",
+		"yearofpassing":"2014"
+	}
+],
+"languages":[
+{
+"lang":"telugu"
+},
+{
+	"lang":"hindi"
+},
+{
+	"lang":"english"
+}
+],
+"skills":[
+{
+	"title":"platforms",
+	"content":"window,linux"
+},
+{
+	"title":"programing languages",
+	"content":"c,c++,java"
+},
+{
+	"title":"database",
+	"content":"mysql"
+}
+]
+}
+
+
+
